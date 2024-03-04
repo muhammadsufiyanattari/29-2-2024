@@ -157,3 +157,46 @@
 // document.write("Quantity Of 2 Items is:\n "+quantiiy2is +"<br>")
 // document.write("Shipping Charge:\n "+shipping_charge +"<br>")
 // document.write("Total Amount Items:\n "+((650*3)+(100*2)+100))
+
+
+
+// //Q8
+// var total=980
+// var obtained=804
+// document.write("<h1>Mark sheet</h1>")
+// document.write("<p>Total Marks </p>"+total)
+// document.write("<p>Obtained Marks </p>"+obtained)
+// document.write("<p>percentge  </p>"+obtained*100/total )
+
+
+//Q9
+// var us =
+// skip
+
+//Q10
+// var 
+
+
+// chapter 9
+// Q1
+// var a=10;
+// document.write("Result:<br>"+a+ "<br>.................");
+// a=++a;
+// document.write("<br>"+a);
+// a=++a;
+// document.write("<br>"+a);
+// a=--a;
+// document.write("<br>"+a);
+// a=--a;
+// document.write("<br>"+a);
+
+// Q2
+// var a=2;
+// var b=1;
+// var result =( --a - --b + ++b + b--);
+// document.write(result);
+// a1 - b0 + 1 + 1
+
+
+// Q3
+
